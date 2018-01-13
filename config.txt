@@ -1,0 +1,4 @@
+[db_credentials]
+host = "your host"
+user = "your username"
+passwd = "your password"
